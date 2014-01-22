@@ -1,11 +1,11 @@
 /* Sass Start Lite */
 // Start with Boubon for the mixins, functions, etc.
 @import "bourbon/bourbon";
-// Bring in Neat for some semantic grid structure
-@import "neat/neat";
-// Float Bitters to serve as a nice baseline for more styles later
-@import "bitters/bitters";
 // Organize variables into central location.
 @import "variables";
+// Float Bitters to serve as a nice baseline for more styles later
+@import "bitters/bitters";
+// Bring in Neat for some semantic grid structure
+@import "neat/neat";
 // Normalize
 @import "normalize";
