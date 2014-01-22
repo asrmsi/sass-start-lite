@@ -9,3 +9,5 @@ I use Bourbon, Neat & Bitters for a base, and I've included a couple of blank fi
 - Bourbon
 - Neat
 - Bitters
+- _variables.scss - adjust defaults and define color schemes
+- Normalize
