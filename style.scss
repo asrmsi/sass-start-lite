@@ -9,3 +9,16 @@
 @import "neat/neat";
 // Normalize
 @import "normalize";
+// Put any homebrewed mixins or extends here
+@import "mixins";
+// Apply grid structure to semantic elements, exclude any styles or formats here
+@import "skeleton";
+// Common element styles go here
+@import "global";
+// Content specific styles go here
+@import "header";
+@import "footer";
+@import "content";
+@import "auxilary";
+// Some folks call it shame
+@import "junk";
