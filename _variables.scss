@@ -1,5 +1,12 @@
 // Variables
 
+// Breakpoints for media queries //////////////////////////////////////////////
+$smallest-bp: 20em; // ~320px phones portrait
+$small-bp: 30em;    // ~480px phones landscape & tiny tablets
+$medium-bp: 48em;   // ~768px small tablets & tablets landscape
+$large-bp: 64em;	// ~1024px good old ipad and other tablets
+$xlarge-bp: 85em;	// ~1366px desktop/laptop/etc
+
 // Bitters Vars ///////////////////////////////////////////////////////////////
 // Typography
 $sans-serif: $helvetica;
